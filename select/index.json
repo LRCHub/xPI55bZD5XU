@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "DIAMOND in the ROUGH",
+  "base_artist": "ぶいすぽっ！",
+  "createdAt": "2025-12-04T02:18:51.777411Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Diamond in the Rough",
+      "artist": "Napoleon",
+      "has_synced": false,
+      "path": "select/01_Diamond_in_the_Rough_Napoleon.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Diamond In The Rough",
+      "artist": "Airbourne",
+      "has_synced": true,
+      "path": "select/02_Diamond_In_The_Rough_Airbourne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Diamond in the Rough",
+      "artist": "Alaska Thunderfuck",
+      "has_synced": true,
+      "path": "select/03_Diamond_in_the_Rough_Alaska_Thunderfuck.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Diamond in the Rough",
+      "artist": "Airbourne",
+      "has_synced": true,
+      "path": "select/04_Diamond_in_the_Rough_Airbourne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Diamond in the Rough",
+      "artist": "Shawn Colvin",
+      "has_synced": true,
+      "path": "select/05_Diamond_in_the_Rough_Shawn_Colvin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Diamond in the Rough",
+      "artist": "Lisa Mitchell",
+      "has_synced": true,
+      "path": "select/06_Diamond_in_the_Rough_Lisa_Mitchell.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Diamond In The Rough",
+      "artist": "Alicia Bridges",
+      "has_synced": false,
+      "path": "select/07_Diamond_In_The_Rough_Alicia_Bridges.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Diamond In the Rough",
+      "artist": "Shawn Colvin",
+      "has_synced": true,
+      "path": "select/08_Diamond_In_the_Rough_Shawn_Colvin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Diamond In The Rough",
+      "artist": "Charley Crockett",
+      "has_synced": true,
+      "path": "select/09_Diamond_In_The_Rough_Charley_Crockett.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Diamond In The Rough",
+      "artist": "Colvin, Shawn",
+      "has_synced": false,
+      "path": "select/10_Diamond_In_The_Rough_Colvin,_Shawn.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Diamond in the Rough",
+      "artist": "Jennifer Knapp",
+      "has_synced": true,
+      "path": "select/11_Diamond_in_the_Rough_Jennifer_Knapp.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Diamond in the Rough",
+      "artist": "Charley Crockett",
+      "has_synced": false,
+      "path": "select/12_Diamond_in_the_Rough_Charley_Crockett.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Diamond in the Rough",
+      "artist": "Airbourne",
+      "has_synced": true,
+      "path": "select/13_Diamond_in_the_Rough_Airbourne.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "04 - Diamond in the Rough",
+      "artist": "Airbourne",
+      "has_synced": true,
+      "path": "select/14_04_-_Diamond_in_the_Rough_Airbourne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Diamond In The Rough",
+      "artist": "Lara Andallo",
+      "has_synced": true,
+      "path": "select/15_Diamond_In_The_Rough_Lara_Andallo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DIAMOND in the ROUGH",
+      "artist": "ぶいすぽっ!",
+      "has_synced": false,
+      "path": "select/pl_01_DIAMOND_in_the_ROUGH_ぶいすぽっ!.txt"
+    }
+  ]
+}
